@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(223, 229, 231);
+}
+
+.heading1{
+    text-align: center;
+    color: rgb(7, 210, 7);
+    font-family: monospace;
+      font-weight: bolder;
+      font-size: 40px;
+      line-height: 22px;
+      word-spacing: 2px;
+      font-style: italic;
+}
+#medicine{
+    display: flex;
+    justify-content: center;
+}
+#medicine img{
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 2px 4px rgb(3, 183, 3);
+    
+}
+.heading2{
+    color:green;
+    font-weight: bolder;
+    font-size: 32px;
+    line-height: 22px;
+    word-spacing: 10px;
+    font-style: italic;
+    font-family:monospace;
+    text-align: center;    
+}
+#heart{
+    display: flex;
+    justify-content: center;
+}
+#heart img{
+    height:250px;
+    width:550px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 1px 4px rgb(202, 50, 50);
+}
+.heading3{
+    text-align: center;
+    color:green;
+    font-weight: bolder;
+    font-size: 30px;
+    line-height: 15px;
+    word-spacing: 8px;
+    font-family:Impact, Haettenschweiler, 
+    'Arial Narrow Bold', sans-serif;
+
+}
+#div{
+    margin-right: 55px;
+}
